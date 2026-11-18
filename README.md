@@ -135,10 +135,6 @@ Pontos observados:
 - O caso 6 apresenta contradição sobre o voto aos 16 e 17 anos, o mesmo problema do caso 9 da avaliação automática.
 - Alguns valores e prazos citados nas respostas ainda não foram conferidos linha a linha com as fichas (ver seção de limitações).
 
-### 3. Testes com usuários reais
-
-**Status: não realizados até esta versão do README.** Quando forem feitos, descreva aqui quantas pessoas participaram, quantas perguntas cada uma fez, como os dados foram coletados (questionário em `testes_usuarios/`) e os resultados de acerto, tempo e facilidade.
-
 ## Limitações conhecidas
 
 - O juiz automático é um modelo de linguagem, não uma avaliação humana. Ele pode aprovar respostas com erro ou reprovar respostas corretas.
